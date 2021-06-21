@@ -5,7 +5,7 @@ I'm Thomas, Backend developer from <img src="https://image.flaticon.com/icons/sv
 -   :key: GPG key: [`EB72864F8F44BCE6`](https://github.com/raksrinana.gpg)
 
 [![Discord Badge](https://img.shields.io/badge/-RakSrinaNa4089-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white&link=https://twitter.com/_jesslim)](https://discordapp.com/users/170119951498084352)
-[![Linkedin Badge](https://img.shields.io/badge/-thomas_couchoud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-couchoud/)](https://www.linkedin.com/in/thomas-couchoud/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas_Couchoud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-couchoud/)](https://www.linkedin.com/in/thomas-couchoud/)
 
 ---
 
