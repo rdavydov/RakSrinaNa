@@ -9,9 +9,4 @@ I'm Thomas, Backend developer from <img src="https://cdn-icons-png.flaticon.com/
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakSrinaNa&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakSrinaNa&show_icons=true&theme=dark&layout=compact">
-</a>
+![Metrics](/github-metrics.svg)
